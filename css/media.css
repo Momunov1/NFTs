@@ -1,0 +1,832 @@
+@media(max-width: 1440px)  {
+    .container{
+        width: 90%;
+    }
+}
+@media(max-width: 1200px)  {
+    .hero1 a {
+        display: none;
+    }
+    .hero-block1 h1 {
+        font-size: 54px;
+    }
+    .hero-block1 p {
+        font-size: 14px;
+    }
+    .image-tor img {
+        margin-left: -190px;
+    }
+    .Rectangle-img {
+        width: 459px;
+        height: 383px;
+    }
+    .Rectangle-img {
+        width: 459px;
+        height: 383px;
+        margin-left: -200px;
+    }
+    .image-3 img {
+        /* padding: 400px 0; */
+        margin-left: -50px;
+    }
+    .Rectangle-img {
+        margin-left: -100px;
+    }
+    .active img {
+        width: 409px;
+        height: 100px;
+    }
+    .image-3 img {
+        margin-left: -100px;
+    }
+    .creat {
+        margin-left: -100px;
+    }
+    .galery-h h1 {
+        margin-left: 300px;
+    }
+    .galery-block1 {
+        margin-left: -30px;
+    }
+    .galery-btn {
+        margin-left: 500px;
+    }
+    .seller1 h1 {
+        margin-left: 400px;
+    }
+    .seller-sell {
+        margin-left: -45px;
+    }
+    .seller-title {
+        margin: 0 15px;
+    }
+    .laters h1 {
+        margin-left: 300px;
+    }
+    .letters-top {
+        margin-left: -130px;
+    }
+    .laters-block {
+        margin: 0 10px;
+    }
+    .footer1 {
+        margin-left: -150px;
+    }
+
+
+}
+@media(max-width: 1024px)  {
+    .hero-block1 h1 {
+        font-size: 44px;
+    }
+    .image-tor img {
+        margin-left: -250px;
+    }
+    .hero-title button {
+        font-size: 14px;
+        width: 80px;
+        height: 44px;
+    }
+    .active img {
+        width: 309px;
+        height: 100px;
+    }
+    .Rectangle-img {
+        width: 359px;
+        height: 383px;
+
+    }
+    .hero-seven {
+        display: flex;
+        padding: 0;
+        flex-direction: column;
+    }
+    .hero-6 img {
+        padding-bottom: 10px;
+    }
+    .hero-7 h1 {
+        font-size: 38px;
+        margin-left: 250px;
+    }
+    .creat {
+        width: 1000px;
+        height: 320px;
+        margin-left: -40px;
+    }
+    .creat-1 {
+        margin-left: 100px;
+        padding: 50px 0;
+    }
+    .creat-2 {
+        margin-left: 100px;
+        padding: 50px 0;
+    }
+    .galery-h h1 {
+        font-size: 38px;
+    }
+    .galery-block2 {
+        width: 388px;
+        height: 309px;
+    }
+    .galery-block {
+        display: flex;
+        margin: 0 10px;
+    }
+    .galery-2 img {
+        width: 62px;
+        height: 49px;
+        margin: 5px 0;
+    }
+    .galery-block2 {
+        margin: 0 20px;
+    }
+    .seller-block {
+        width: 247px;
+        height: 88px;
+    }
+    .seller-sell {
+        margin-left: -305px;
+        padding: 200PX;
+    }
+    .seller-block div {
+        margin-left: -25px;
+    }
+    .seller-block2 {
+        display: flex;
+        width: 257px;
+        height: 88px;
+    }
+    .seller-block2 div {
+        margin-left: -20px;
+        padding: 30px;
+    }
+    .seller-sell {
+        margin-left: -470px;
+        padding: 400px;
+    }
+    .galery-btn {
+        margin-left: 300px;
+    }
+    .laters h1 {
+        font-size: 38px;
+    }
+    .letters-top {
+        display: flex;
+        flex-direction: column;
+    }
+    .laters-block {
+        margin: 20px 10px;
+    }
+    .letters-top {
+        margin-left: 200px;
+    }
+    .footer2 {
+        margin: 5px 30px;
+    }
+
+
+}
+@media(max-width: 992px)  {
+    .creat {
+        width: 900px;
+        height: 320px;
+        margin-left: -20px;
+    }
+    .creat-1 {
+        margin-left: 30px;
+    }
+    .creat-3 {
+        margin-left: -1px;
+    }
+    .creat-2 {
+        margin-left: 50px;
+        padding: 50px 0;
+    }
+    .hero-7 h1 {
+        font-size: 30px;
+        margin-left: 200px;
+    }
+    .image-tor img {
+        margin-left: -200px;
+    }
+    .galery {
+        width: 300px;
+        height: 250px;
+        margin-left: -55px;
+    }
+    .galery-block2 {
+        width: 310px;
+        height: 300px;
+    }
+    .galery-2 {
+        margin: 0 5px;
+    }
+    .galery-block2 {
+        margin: 0 5px;
+    }
+    .galery-btn {
+        margin-left: 380px;
+    }
+    .seller1 h1 {
+        margin-left: -230px;
+    }
+    .seller-sell {
+        margin-left: -420px;
+        padding: 10px;
+    }
+    .seller {
+        padding: 350px;
+    }
+
+}
+@media(max-width: 768px)  {
+    .hero-block1 h1 {
+        font-size: 34px;
+    }
+    .active img {
+        width: 259px;
+        height: 100px;
+    }
+    .Rectangle-img {
+        width: 250px;
+        height: 283px;
+    }
+    .image-4 img {
+        margin-left: -200px;
+    }
+    .image-3 img {
+        margin-left: -150px;
+    }
+    .image-2 img {
+        padding: 100px 0;
+        margin-left: -80px;
+    }
+    .hero-3 h1 {
+        font-size: 25px;
+    }
+    .hero-3 p {
+        font-size: 14px;
+    }
+    .hero-3 button {
+        font-size: 12px;
+        width: 250px;
+        height: 50px;
+        margin-left: 100px;
+        border-radius: 10%;
+    }
+    .product {
+        flex-direction: column;
+    }
+    .hero-seven {
+         flex-direction: row;
+    }
+    .hero-6 {
+        margin: 30px 5px;
+    }
+    .hero-7 h1 {
+        font-size: 29px;
+        margin-left: 150px;
+    }
+    .creat {
+        width: 750px;
+        height: 320px;
+        margin-left: -30px;
+    }
+    .creat-1 h3 {
+        font-size: 20px;
+    }
+    .creat-1 p {
+        font-size: 13px;
+    }
+    .creat-2 h3 {
+        font-size: 20px;
+    }
+    .creat-2 p {
+        font-size: 13px;
+    }
+    .creat-3 h3 {
+        font-size: 20px;
+        margin-left: 60px;
+    }
+    .creat-3 p {
+        font-size: 13px;
+        margin-left: 30px;
+    }
+    .galery-h h1 {
+        font-size: 35px;
+        margin-left: 200px;
+    }
+    .galery-block2 {
+        width: 318px;
+        height: 279px;
+    }
+    .galery-block1 {
+        margin-left: -80px;
+    }
+    .galery-block2 {
+        margin: 0 5px;
+    }
+    .galery-btn {
+        margin-left: 200px;
+    }
+    .seller-title {
+        margin: 0 5px;
+    }
+    .seller-block {
+        width: 190px;
+        height: 88px;
+    }
+    .seller-block div h4 {
+        font-size: 13px;
+    }
+    .seller-block2 {
+        width: 190px;
+        height: 88px;
+    }
+    .seller-block2 div h4 {
+        font-size: 12px;
+    }
+    .seller-block2 img {
+        width: 40px;
+        height: 40px;
+    }
+    .seller-sell img {
+        padding: 80px 0;
+    }
+    .seller-block img {
+        width: 40px;
+        height: 40px;
+    }
+    .seller-sell img {
+        padding: 30px 0;
+    }
+    .seller-sell {
+        margin-left: -230px;
+        padding: 190px;
+    }
+    .laters h1 {
+        margin-left: 150px;
+    }
+    .laters-block img {
+        margin-left: 20px;
+        padding: 0 0;
+    }
+    .letters-top {
+        margin-left: 100px;
+    }
+    .footer1 h1 {
+        font-size: 20px;
+    }
+    .footer1 p {
+        font-size: 14px;
+    }
+    .footer-img img {
+        margin: 5px 0;
+    }
+    .footer2 h3 {
+        font-size: 20px;
+    }
+    .footer2 a {
+        font-size: 13px;
+    }
+    .footer2 {
+        margin: 5px 15px;
+    }
+    .foot-text h1 {
+        font-size: 20px;
+    }
+    .foot-text p {
+        font-size: 12px;
+    }
+    .footer-btn input {
+        width: 205px;
+    }
+    .seller-sell {
+        margin-left: -520px;
+        padding: 30px;
+    }
+    .seller1 h1 {
+        margin-left: -350px;
+        padding: 1px;
+    }
+    .galery {
+        width: 300px;
+        height: 250px;
+        margin-left: -55px;
+    }
+    .galery-block2 {
+        width: 310px;
+        height: 300px;
+    }
+    .galery-2 {
+        margin: 0 5px;
+    }
+    .galery-block2 {
+        margin: 0 5px;
+    }
+    .galery-block {
+        display: flex;
+        margin: 0 5px;
+    }
+    .galery {
+        width: 200px;
+        height: 200px;
+        margin-left: -25px;
+    }
+
+
+
+
+}
+@media(max-width: 576px)  {
+    .hero-block1 h1 {
+        font-size: 24px;
+    }
+    .hero-block1 p {
+        font-size: 10px;
+    }
+    .image-tor img {
+        margin-left: -250px;
+    }
+    .Rectangle-img {
+        width: 150px;
+        height: 183px;
+    }
+    .image-tor img {
+        width: 80px;
+        height: 80px;
+    }
+    .image-tor img {
+        width: 80px;
+        height: 80px;
+    }
+    .image-2 img {
+        width: 158px;
+        height: 200px;
+    }
+    .hero-3 button {
+        width: 650px;
+        height: 50px;
+
+    }
+    .aicon1 img {
+        margin-left: -130px;
+    }
+    .hero-5 img {
+        width: 259px;
+        height: 263px;
+        padding: 35px;
+        margin-left: -45px;
+    }
+    .hero-5 {
+        width: 530px;
+        height: 400px
+    }
+    .creat {
+        width: 320px;
+        height: 760px;
+        margin-left: 80px;
+        flex-direction: column;
+    }
+    .galery-h h1 {
+        font-size: 35px;
+        margin-left: 90px;
+    }
+    .galery-block1
+    {flex-direction: column;
+        margin-left: 80px;
+    }
+    .galery-block2 {
+        margin: 5px 5px;
+    }
+    .galery-block2 {
+        width: 256px;
+        height: 255px;
+    }
+    .seller {
+        padding: 950px;
+    }
+    .galery-block1 {
+        padding-bottom: 10px;
+    }
+    .galery-btn {
+        margin-left: 150px;
+        padding: 10px 0;
+    }
+    .seller-sell {
+        margin-left: -1020px;
+        padding: 10px;
+    }
+    .seller-block {
+        width: 140px;
+        height: 78px;
+    }
+    .seller-block div h4 {
+        font-size: 10px;
+    }
+    .seller1 h1 {
+        margin-left: -850px;
+        padding: 1px;
+    }
+    .letters-top {
+        margin-left: 10px;
+    }
+    .laters h1 {
+        margin-left: 50px;
+    }
+    .footer {
+        display: flex;
+        justify-content: space-between;
+        padding: 50px;
+        flex-direction: column;
+    }
+    .footer1 {
+        margin-left: -100px;
+    }
+    .foot-text h1 {
+        font-size: 20px;
+        padding: 30px;
+    }
+
+
+
+
+}
+@media(max-width: 451px)  {
+    .image-tor img {
+        width: 60px;
+        height: 60px;
+    }
+    .image-tor img {
+        margin-left: -280px;
+    }
+    .hero-block1 h1 {
+        font-size: 20px;
+    }
+    .image-3 img {
+        margin-left: -220px;
+    }
+
+}
+@media(max-width: 400px)  {
+    .image-tor img {
+        margin-left: -320px;
+    }
+    .image-4 img {
+        width: 62px;
+        height: 62px;
+    }
+    .image-4 img {
+        margin-left: -290px;
+    }
+    .hero-block1 p {
+        font-size: 8px;
+    }
+    .hero-title button {
+        font-size: 10px;
+        width: 50px;
+        height: 24px;
+    }
+    .hero-block1 p {
+        font-size: 10px;
+        margin-left: -25px;
+    }
+    .hero-img2 img {
+        width: 26px;
+        height: 26px;
+    }
+    .hero-img2 img {
+        width: 26px;
+        height: 26px;
+    }
+    .Rectangle-img {
+        margin-left: -180px;
+    }
+    .image-2 img {
+        width: 88px;
+        height: 100px;
+    }
+    .image-2 img {
+        margin-left: -120px;
+    }
+    .active img {
+        width: 200px;
+        height: 100px;
+    }
+    .image-3 img {
+        margin-left: -130px;
+    }
+    .hero-3 h1 {
+        font-size: 18px;
+    }
+    .hero-3 p {
+        font-size: 10px;
+        margin-left: 50px;
+    }
+    .hero-5 {
+        width: 370px;
+        height: 300px;
+    }
+    .hero-5 img {
+        width: 159px;
+        height: 163px;
+        padding: 5px;
+        margin-left: 5px;
+    }
+    .hero-seven {
+        flex-direction: column;
+    }
+    .hero-7 h1 {
+        font-size: 20px;
+        margin-left: 40px;
+    }
+    .creat {
+        margin-left: 20px;
+    }
+    .creat-3 {
+      width: 350px;
+    }
+    .seller-sell {
+        flex-direction: column;
+    }
+    .seller-block {
+        width: 250px;
+        height: 100px;
+        margin-left: 100px;
+    }
+    .seller-block div h4 {
+        font-size: 20px;
+    }
+    .seller-block img {
+        width: 60px;
+        height: 60px;
+    }
+    .seller-block2 {
+        width: 250px;
+        height: 100px;
+        margin-left: 100px;
+    }
+    .seller-block2 div h4 {
+        font-size: 20px;
+    }
+    .seller-block2 img {
+        width: 60px;
+        height: 60px;
+    }
+    .laters-block {
+        margin: 10px 10px;
+    }
+    .laters-block {
+        width: 358px;
+        height: 450px;
+    }
+    .laters-block img {
+        margin-left: 10px;
+        padding: 0 0;
+    }
+    .letters-top {
+        margin-left: -15px;
+    }
+
+
+
+}
+@media(max-width: 376px)  {
+    .seller1 h1 {
+        margin-left: -951px;
+        padding: 1px;
+    }
+    .galery-btn {
+        margin-left: 100px;
+    }
+    .galery-block1 {
+        margin-left: 40px;
+    }
+    .galery-h h1 {
+        font-size: 25px;
+        margin-left: 70px;
+    }
+    .creat {
+        width: 300px;
+        height: 760px;
+    }
+    .creat-3 {
+        width: 330px;
+    }
+    .hero-5 {
+        width: 300px;
+        height: 300px;
+    }
+    .hero-5 img {
+        width: 89px;
+        height: 103px;
+        padding: 5px;
+        margin-left: 5px;
+    }
+    .hero-block1 h1 {
+        font-size: 20px;
+        margin-left: -20px;
+    }
+    .Rectangle-img {
+        width: 130px;
+        height: 153px;
+    }
+    .hero-block1 p {
+        font-size: 13px;
+        margin-left: -25px;
+    }
+    .Rectangle-img {
+        margin-left: -140px;
+    }
+    .image-tor img {
+        margin-left: -360px;
+    }
+    .active img {
+        width: 190px;
+        height: 90px;
+    }.image-3 img {
+         margin-left: -100px;
+     }
+
+}
+@media(max-width: 320px)  {
+    .hero-block1 p {
+        font-size: 14px;
+    }
+    .Rectangle-img {
+        margin-left: -100px;
+    }
+    .Rectangle-img {
+        width: 100px;
+        height: 153px;
+    }
+    .active img {
+        width: 170px;
+        height: 90px;
+        margin-left: -30px;
+    }
+    .image-3 img {
+        margin-left: -130px;
+        width: 100px;
+        height: 100px;
+    }
+    .aicon1 img {
+        margin-left: -130px;
+    }
+    .hero-3 button {
+        margin-left: 30px;
+    }
+    .hero-3 p {
+        font-size: 10px;
+        margin-left: 30px;
+    }
+    .product {
+        flex-direction: column;
+        margin-left: -5px;
+    }
+    .creat {
+        width: 280px;
+        height: 760px;
+        margin-left: 2px;
+    }
+    .creat-3 {
+        width: 290px;
+    }
+    .galery-block1 {
+        margin-left: 20px;
+    }
+    .seller-sell {
+        margin-left: -1060px;
+        padding: 10px;
+    }
+    .laters-block {
+        width: 290px;
+        height: 400px;
+        margin-left: -3px;
+    }
+    .letter-p {
+        margin-left: 50px;
+    }
+    .letter1 img {
+        display: none;
+    }
+    .letter-text h3 {
+        font-size: 15px;
+        padding-bottom: 20px;
+        margin-left: 30px;
+    }
+    .letters-in {
+        padding-bottom: 15px;
+    }
+    .letter-text p {
+        font-size: 12px;
+    }
+    .letter-block button {
+        width: 159px;
+        height: 59px;
+    }
+    .footer-block {
+        margin-left: -55px;
+    }
+
+}
